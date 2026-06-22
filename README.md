@@ -1,2 +1,1 @@
-# AVA
-Automated Voice Assistant
+# Project Helix
